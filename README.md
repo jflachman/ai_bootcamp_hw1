@@ -28,3 +28,5 @@ git status
 git commit -m 'added changes to jeffs_branch'
 git push origin jeffs_branch
 ```
+
+Adding more changes at the server
